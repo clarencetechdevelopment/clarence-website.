@@ -1,0 +1,20 @@
+#portfolio {
+    background: #f4f4f9;
+    padding: 2rem;
+    text-align: center;
+}
+.project {
+    margin-bottom: 1.5rem;
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.project a {
+    text-decoration: none;
+    color: #003366;
+    font-weight: bold;
+}
+.project a:hover {
+    color: #1a1a71;
+}
